@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.AssemblyInfo.cs
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.sourcelink.json
+C:\Users\user\Documents\PC1\juro-simples\bin\Debug\net9.0\juro-simples.exe
+C:\Users\user\Documents\PC1\juro-simples\bin\Debug\net9.0\juro-simples.deps.json
+C:\Users\user\Documents\PC1\juro-simples\bin\Debug\net9.0\juro-simples.runtimeconfig.json
+C:\Users\user\Documents\PC1\juro-simples\bin\Debug\net9.0\juro-simples.dll
+C:\Users\user\Documents\PC1\juro-simples\bin\Debug\net9.0\juro-simples.pdb
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.dll
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\refint\juro-simples.dll
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.pdb
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\juro-simples.genruntimeconfig.cache
+C:\Users\user\Documents\PC1\juro-simples\obj\Debug\net9.0\ref\juro-simples.dll
